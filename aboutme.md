@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi! My name is Gorkem Meral. 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am into data analytics, economics, politics, the R language, cycling, bouldering, pubs, parks, music, and the arts.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Get in touch
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'd like to discuss and share ideas. Please use the social media / contact icons at the buttom of the page to get in touch. 
