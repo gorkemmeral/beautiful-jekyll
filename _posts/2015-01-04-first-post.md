@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Just created a GitH!
+image: /img/hello_world.jpegub hosted page. Yuy!
 tags: [random, exciting-stuff]
 ---
 
