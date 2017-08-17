@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi! My name is **Görkem Meral. 
 ---
 
-I am into data analytics, economics, politics, the R language, cycling, bouldering, pubs, parks, music, and the arts.
+I live in London, UK. I am into data analytics, economics, politics, the R language, cycling, bouldering, photography, pubs, parks, music, and the arts.
 
 
 ### Get in touch
