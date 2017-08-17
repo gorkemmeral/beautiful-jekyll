@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Just created a GitH!
-image: /img/hello_world.jpegub hosted page. Yuy!
+title: Just created a GitHub hosted page. Yay!
+image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
