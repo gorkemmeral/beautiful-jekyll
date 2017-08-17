@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Hi! My name is **Görkem Meral. 
+subtitle: Hi!  
 ---
 
-I live in London, UK. I am into data analytics, economics, politics, the R language, cycling, bouldering, photography, pubs, parks, music, and the arts.
+My name is **Görkem Meral**. I live in London, UK. I am into data analytics, economics, politics, the R language, cycling, bouldering, photography, pubs, parks, music, and the arts.
 
 
 ### Get in touch
