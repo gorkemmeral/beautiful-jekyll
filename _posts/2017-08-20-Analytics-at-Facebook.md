@@ -2,7 +2,7 @@
 layout: post
 title: Alex Schultz's Marketing Analytics Lecture at Stanford 
 image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+tags: [Facebook, Growth, Analytics]
 ---
 
 A great marketing analytics lecture from Alex Schultz, VP of Growth at [Facebook](https://facebook.com)
