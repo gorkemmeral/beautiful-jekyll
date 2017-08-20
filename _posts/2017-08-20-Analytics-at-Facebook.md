@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just created a GitHub hosted page. Yay!
+title: Alex Schultz's Marketing Analytics Lecture at Stanford 
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
