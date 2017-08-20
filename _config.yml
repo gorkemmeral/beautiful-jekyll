@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://gorkemmeral.github.io"
-baseurl: ""
+baseurl: "gorkemmeral.com"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -17,7 +17,7 @@ baseurl: ""
 title: Görkem Meral
 
 # Short description of your site
-description: Görkem Meral's personal website
+description: Görkem Meral's personal website. Data analytics, economics, the R language, politics, cycling, bouldering, photography, pubs, parks, music, and the arts.
 
 # --- Navigation bar options --- #
 
