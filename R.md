@@ -1,9 +1,9 @@
 ---
 layout: page
 title: R 
-subtitle: The R Language and Its Applications     
+subtitle: Applications of The R Language     
 ---
 
-### R Shiny Sample 
+### R Shiny 
 
-[Here, you will find a sample application of **R Shiny**](https://gorkemmeral.shinyapps.io/shiny_demo_app/)
+Here, you will find a sample application of [**R Shiny**](https://gorkemmeral.shinyapps.io/shiny_demo_app/)
