@@ -9,4 +9,4 @@ My name is **Görkem Meral**. I live in London, UK. I am into data analytics, ec
 
 ### Get in touch
 
-I enjoy sharing ideas about my interests. Please use the social media / contact icons at the buttom of the page to get in touch, if we happen to share interests. 
+I enjoy sharing ideas about my interests. I can also help with you data analytics projects. Please use the social media / contact icons at the buttom of the page to get in touch. 
