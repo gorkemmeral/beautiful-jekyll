@@ -6,4 +6,4 @@ subtitle: Applications of The R Language
 
 ### R Shiny 
 
-Here, you will find a sample application of [**R Shiny**](https://gorkemmeral.shinyapps.io/shiny_demo_app/)
+[Here](https://gorkemmeral.shinyapps.io/shiny_demo_app/), you will find a sample application of [**R Shiny**](http://shiny.rstudio.com/)
