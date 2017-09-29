@@ -81,6 +81,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
+  calendly: true
 
 # Select which share links to show in posts
 share-links-active:
