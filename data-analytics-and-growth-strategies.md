@@ -16,7 +16,7 @@ subtitle: Grow Your Business With Data
   - Background in quantitative analytics, and real estate investment banking
   
 ### CLIENTS
-![Adzuna logo](https://lh3.googleusercontent.com/-fskWefO4OK8/AAAAAAAAAAI/AAAAAAAAAI0/7HslZtK40xU/s640/photo.jpg)
+![Adzuna logo]()
   
 
 <!-- Calendly badge widget begin -->
