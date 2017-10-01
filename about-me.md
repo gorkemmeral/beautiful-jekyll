@@ -16,7 +16,7 @@ You can book a **free one hour consultancy** service with me to discuss your bus
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/gorkemmeral/60min');return false;">**Click here now and book your free one hour discussion with me!**</a>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/gorkemmeral/60min');return false;">Click here now and book your free one hour discussion with me!</a>
 <!-- Calendly link widget end -->
 
 <!-- Calendly badge widget begin -->
