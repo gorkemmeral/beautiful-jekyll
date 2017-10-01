@@ -17,9 +17,9 @@ subtitle: Grow Your Business With Data
   - Background in quantitative analytics, and real estate investment banking
   
 ### CLIENTS
-![Adzuna logo](/img/adzuna-logo.png)(https://www.adzuna.co.uk)
-![Plentific logo](/img/plentific-logo.png)(https://www.plentific.com)
-![Talmix logo](/img/talmix-logo.png)(https://www.talmix.com)
+[![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
+[![Plentific logo](/img/plentific-logo.png)](https://www.plentific.com)
+[![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
   
 
 <!-- Calendly badge widget begin -->
