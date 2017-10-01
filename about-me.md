@@ -13,7 +13,8 @@ I enjoy sharing ideas about my interests. I can also help you with your growth s
 
 You can book a **free one hour consultancy** service with me to discuss your business' data and growth strategy. 
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/gorkemmeral/60min" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/gorkemmeral/60min', text: 'Schedule time with me', color: '#4d5055', branding: true});</script>
+<!-- Calendly badge widget end -->
