@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analytics & Growth Strategies 
+title: Data Analytics 
 subtitle: Some Business Applications and Code Samples    
 ---
 
