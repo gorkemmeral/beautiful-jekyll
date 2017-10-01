@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alex Schultz's Marketing Analytics Lecture at Stanford 
-image: /img/hello_world.jpeg
+image: /img/fb_icon_325x325.png
 tags: [Facebook, Growth, Analytics]
 ---
 
