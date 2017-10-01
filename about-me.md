@@ -11,7 +11,7 @@ My name is **Görkem**. I live in London, UK. I am into data analytics, economic
 
 I enjoy sharing ideas about my interests. I can also help you with your growth strategy & data analytics projects. Please use the social media / contact icons at the buttom of the page to get in touch. 
 
-You can book a **free one hour consultancy** service with me to discuss your business' data and growth strategy. 
+You can book a **free one hour consultancy** service with me to discuss your data, analytics, and growth strategy. 
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
