@@ -8,15 +8,16 @@ subtitle: Grow Your Business With Data
   - Reviewing your data strategy
   - Data warehousing 
   - Data visualisation & dashboard solutions
+  - Marketing analytics
   - Predictive modelling
 
-### MY CREDENTIALS
+### CREDENTIALS
   - MSc. Finance & Investment
   - BSc. Econometrics
   - Background in quantitative analytics, and real estate investment banking
   
 ### CLIENTS
-![Adzuna logo](https://github.com/gorkemmeral/gorkemmeral.github.io/blob/master/img/adzuna-logo.png)
+![Adzuna logo]()
   
 
 <!-- Calendly badge widget begin -->
