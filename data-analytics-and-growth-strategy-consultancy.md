@@ -18,7 +18,7 @@ subtitle: Grow Your Business With Analytics
   
 ### Clients include the U.K.'s hottest tech start-ups
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
-[![Plentific logo](/img/plentific-logo.png)](https://www.plentific.com)
+[![Plentific logo](/img/plentific-logo.png)](https://plentific.com)
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
 
 ### Schedule a meeting
