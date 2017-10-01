@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: :wave: 
+subtitle: (:wave:) 
 ---
 
 My name is **Görkem**. I live in London, UK. I am into data analytics, economics, the R language, politics, cycling, bouldering, photography, pubs, parks, music, and the arts.
