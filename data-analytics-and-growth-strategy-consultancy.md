@@ -16,11 +16,12 @@ subtitle: Grow Your Business With Analytics
   - BSc. Econometrics
   - Background in real estate investment banking, quantitative analytics, econometrics, and marketing analysis
   
-### Clients include the U.K.'s hottest start-ups
+### Clients include the U.K.'s hottest tech start-ups
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
 [![Plentific logo](/img/plentific-logo.png)](https://www.plentific.com)
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
-  
+
+### Schedule a meeting
 You can book a **free one hour consultancy** service with me to discuss your data, analytics, and growth strategy.
 
 <!-- Calendly link widget begin -->
