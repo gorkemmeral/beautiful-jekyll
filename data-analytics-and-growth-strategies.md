@@ -1,15 +1,23 @@
 ---
 layout: page
-title: Data Analytics 
-subtitle: Applications and Code Samples    
+title: Data Analytics Consultancy
+subtitle: Grow Your Business With Data    
 ---
 
-### R 
+### - CONSULTANCY SERVICES I OFFER
+  - Review of your data sources and your data strategy
+  - Data warehousing 
+  - Data visualisation & dashboard solutions
+  - Predictive modelling
 
-[Here](https://gorkemmeral.shinyapps.io/shiny_demo_app/), you will find a sample application of [**R Shiny**](http://shiny.rstudio.com/)
+### - MY CREDENTIALS
+  - MSc. Finance & Investment
+  - BSc. Econometrics
+  - Background in quantitative analytics, and real estate investment banking
+  
 
-<!-- Calendly badge widget begin 
+<!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/gorkemmeral/meeting', text: 'Schedule a meeting', color: '#4d5055', branding: false});</script>
-Calendly badge widget end -->
+<!-- Calendly badge widget end -->
