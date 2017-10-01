@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-My name is **Görkem**. I live in London, UK. I am into data analytics, economics, the R language, politics, cycling, bouldering, photography, pubs, parks, music, and the arts.
+Hi! My name is **Görkem**. I live in London, UK. I am into data analytics, economics, the R language, politics, cycling, bouldering, photography, pubs, parks, music, and the arts.
 
 I run a data analytics [consultancy](http://gorkemmeral.com/data-analytics-and-growth-strategy-consultancy/) business called [**Creiras**](http://www.creiras.com).
 
