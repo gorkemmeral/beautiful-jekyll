@@ -16,11 +16,18 @@ subtitle: Grow Your Business With Analytics
   - BSc. Econometrics
   - Background in real estate investment banking, quantitative analytics, econometrics, and marketing analysis
   
-### Clients
+### Clients include the U.K.'s hottest start-ups
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
 [![Plentific logo](/img/plentific-logo.png)](https://www.plentific.com)
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
   
+You can book a **free one hour consultancy** service with me to discuss your data, analytics, and growth strategy.
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/gorkemmeral/meeting');return false;">Click here to book your free one hour discussion with me.</a>
+<!-- Calendly link widget end -->
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
