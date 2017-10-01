@@ -4,16 +4,19 @@ title: Data Analytics Consultancy
 subtitle: Grow Your Business With Data    
 ---
 
-### - CONSULTANCY SERVICES I OFFER
-  - Review of your data sources and your data strategy
+### SERVICES INCLUDE
+  - Reviewing your data strategy
   - Data warehousing 
   - Data visualisation & dashboard solutions
   - Predictive modelling
 
-### - MY CREDENTIALS
+### MY CREDENTIALS
   - MSc. Finance & Investment
   - BSc. Econometrics
   - Background in quantitative analytics, and real estate investment banking
+  
+### CLIENTS
+![Adzuna logo](https://lh3.googleusercontent.com/-fskWefO4OK8/AAAAAAAAAAI/AAAAAAAAAI0/7HslZtK40xU/s640/photo.jpg)
   
 
 <!-- Calendly badge widget begin -->
