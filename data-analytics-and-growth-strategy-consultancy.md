@@ -4,19 +4,19 @@ title: Data Analytics Consultancy
 subtitle: Grow Your Business With Data    
 ---
 
-### SERVICES INCLUDE
+### Services include
   - Reviewing your data strategy
   - Data warehousing 
   - Data visualisation & dashboard solutions
   - Marketing analytics
   - Predictive modelling
 
-### CREDENTIALS
+### Credentials
   - MSc. Finance & Investment
   - BSc. Econometrics
-  - Background in quantitative analytics, and real estate investment banking
+  - Background in real estate investment banking, quantitative analytics, econometrics, and marketing analysis
   
-### CLIENTS
+### Clients
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
 [![Plentific logo](/img/plentific-logo.png)](https://www.plentific.com)
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
