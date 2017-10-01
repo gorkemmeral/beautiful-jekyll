@@ -1,9 +1,9 @@
 ---
 layout: page
-title: R 
-subtitle: Applications of The R Language     
+title: Data Analytics & Growth Strategies 
+subtitle: Some Business Applications and Code Samples    
 ---
 
-### R Shiny 
+### R 
 
 [Here](https://gorkemmeral.shinyapps.io/shiny_demo_app/), you will find a sample application of [**R Shiny**](http://shiny.rstudio.com/)
