@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Alex Schultz](https://www.linkedin.com/in/alexorig/)'s Marketing Analytics Lecture at Stanford 
+title: Alex Schultz's Marketing Analytics Lecture at Stanford 
 image: /img/fb_icon_325x325.png
 tags: [Facebook, Growth, Analytics, Marketing Analytics, Retention, Stanford University, Video]
 ---
