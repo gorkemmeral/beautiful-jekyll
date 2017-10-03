@@ -10,7 +10,7 @@ I run a data analytics [consultancy](http://gorkemmeral.com/data-analytics-and-g
 
 ### Get in touch
 
-I enjoy sharing ideas about my interests. I can also help you with your growth strategy & data analytics projects. Please use the social media / contact icons at the buttom of the page to get in touch. 
+I enjoy sharing ideas about my interests. I can also help you with your growth strategy & data analytics projects. Please use the social media / contact icons at the bottom of the page to get in touch. 
 
 You can book a **free one hour consultancy** service with me to discuss your data, analytics, and growth strategy.
 
