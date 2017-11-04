@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What is A/B testing and how to run it with low traffic 
-image: /img/ab-testing.png
-tags: [A/B testing, Growth, Analytics, Marketing Analytics, Web Analytics, Conversion, Optimisation]
+image: /img/ab-testing.jpg
+tags: [A/B testing, Growth Analytics, Marketing Analytics, Web Analytics, Conversion, Optimisation]
 ---
 
 Many websites don’t have a huge amount of traffic. This makes it difficult to run **A/B tests** (experiments) for changes to websites. I’ll try to explain what an experiment is and what the requirements are to successfully run an experiment.
@@ -26,7 +26,9 @@ Assuming that, during our test, 200 of the emails have been clicked through in b
 Unfortunately not all websites have enough traffic -or email subscribers- to run A/B tests. In this case we may take different approaches to our decision making process;
 
 1. **A/B test with tweaks:**
-* If you don’t have a high volume of traffic, you may need to test the pages for more dramatic changes (higher improvement rate=smaller sample size).
+
+* **Test for dramatic changes**
+If you don’t have a high volume of traffic, you may need to test the pages for more dramatic changes (higher improvement rate=smaller sample size).
  
 * **Focus on micro-conversions:**
 Instead of focusing on main conversion rates such as purchased products on an ecommerce website or sign-ups in general, you may track the conversion to number of pageviews for particular pages.
