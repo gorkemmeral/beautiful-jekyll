@@ -40,7 +40,7 @@ Unfortunately not all websites have enough traffic -or email subscribers- to run
 [This](https://fivesecondtest.com/) website allows you to run experiments by uploading screenshots (or dummy) of two versions of your webpage. I think it’s a great alternative to traditional A/B testing. 
  
 **3. User testing:**
-Having users testing the current product (and the versions as well maybe). You may find 5-10 people to test your product and give you feedback or try [Usertesting](http://www.usertesting.com/), [TryMyUI](http://www.trymyui.com/), or [YouEye](https://www.youeye.com/) for a wider scope.
+Having users testing the current product (and the versions as well maybe). You may find 5-10 people to test your product and give you feedback or try [Usertesting](http://www.usertesting.com/), or [TryMyUI](http://www.trymyui.com/) for a wider scope.
  
 **4. Mouse tracking heat maps:**
 Tracking your users’ movements on your website will give you a great insight about the user journey. Try [Mouseflow](https://mouseflow.com/) (or Feng-GUI, EyeQuant, LookTracker) to see the blockers for conversion.
