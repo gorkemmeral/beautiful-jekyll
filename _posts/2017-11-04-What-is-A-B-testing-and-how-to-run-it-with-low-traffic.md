@@ -25,7 +25,7 @@ Assuming that, during our test, 200 of the emails have been clicked through in b
 
 Unfortunately not all websites have enough traffic -or email subscribers- to run A/B tests. In this case we may take different approaches to our decision making process;
 
-1. **A/B test with tweaks:**
+**1. A/B test with tweaks:**
 
  * **Test for dramatic changes**
  If you don’t have a high volume of traffic, you may need to test the pages for more dramatic changes (higher improvement rate=smaller sample size).
@@ -36,16 +36,16 @@ Unfortunately not all websites have enough traffic -or email subscribers- to run
  * **Boost the test traffic with marketing campaigns:**
  You may try to drive traffic via PPC or email campaigns.
  
-2. **5 Second test:**
+**2. 5 Second test:**
 [This](https://fivesecondtest.com/) website allows you to run experiments by uploading screenshots (or dummy) of two versions of your webpage. I think it’s a great alternative to traditional A/B testing. 
  
-3. **User testing:**
+**3. User testing:**
 Having users testing the current product (and the versions as well maybe). You may find 5-10 people to test your product and give you feedback or try [Usertesting](http://www.usertesting.com/), [TryMyUI](http://www.trymyui.com/), or [YouEye](https://www.youeye.com/) for a wider scope.
  
-4. **Mouse tracking heat maps:**
+**4. Mouse tracking heat maps:**
 Tracking your users’ movements on your website will give you a great insight about the user journey. Try [Mouseflow](https://mouseflow.com/) (or Feng-GUI, EyeQuant, LookTracker) to see the blockers for conversion.
  
-5. **Collect insight from users directly:**
+**5. Collect insight from users directly:**
 Invest in a live chat solution such as [Intercom](https://www.intercom.com/live-chat). This will help you to understand the problems your users face when they use the website.
  
 Hope this helps you to understand what A/B testing is and what the alternative approaches are. Please leave your comments below.
