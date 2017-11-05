@@ -5,7 +5,7 @@ image: /img/ab-testing.jpg
 tags: [A/B testing, Growth Analytics, Marketing Analytics, Web Analytics, Conversion, Optimisation]
 ---
 
-Many websites don’t have a huge amount of traffic. This makes it difficult to run **A/B tests** (experiments) for changes to websites. I’ll try to explain what an experiment is and what the requirements are to successfully run an experiment.
+Many websites don’t have a huge amount of traffic. This makes it difficult to **A/B test** changes on websites. I’ll try to explain what an A/B test (experiment) is and what the requirements are to successfully run an experiment.
  
 **What is A/B testing:** A/B testing (also known as *split testing* or *bucket testing*) is a statistical experiment to compare two versions of a webpage (or an app, or email campaigns) against each other to determine which one performs better. During A/B testing, two variants of a page are shown to different group of users, and statistical techniques are used to determine which variation performs better for a given conversion goal. In case of A/B, we test two variants (control and test). If we want to test more than two variants at the same time, it’s called *multivariate testing* (A/B/C/… testing).
  
