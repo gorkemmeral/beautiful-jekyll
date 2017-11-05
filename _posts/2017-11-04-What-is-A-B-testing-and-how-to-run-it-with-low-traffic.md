@@ -27,14 +27,14 @@ Unfortunately not all websites have enough traffic -or email subscribers- to run
 
 1. **A/B test with tweaks:**
 
-* **Test for dramatic changes**
-If you don’t have a high volume of traffic, you may need to test the pages for more dramatic changes (higher improvement rate=smaller sample size).
+ * **Test for dramatic changes**
+ If you don’t have a high volume of traffic, you may need to test the pages for more dramatic changes (higher improvement rate=smaller sample size).
  
-* **Focus on micro-conversions:**
-Instead of focusing on main conversion rates such as purchased products on an ecommerce website or sign-ups in general, you may track the conversion to number of pageviews for particular pages.
+ * **Focus on micro-conversions:**
+ Instead of focusing on main conversion rates such as purchased products on an ecommerce website or sign-ups in general, you may track the conversion to number of pageviews for particular pages.
  
-* **Boost the test traffic with marketing campaigns:**
-You may try to drive traffic via PPC or email campaigns.
+ * **Boost the test traffic with marketing campaigns:**
+ You may try to drive traffic via PPC or email campaigns.
  
 2. **5 Second test:**
 [This](https://fivesecondtest.com/) website allows you to run experiments by uploading screenshots (or dummy) of two versions of your webpage. I think it’s a great alternative to traditional A/B testing. 
