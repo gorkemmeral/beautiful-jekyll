@@ -1,6 +1,7 @@
 ---
 layout: post
-title: What is A/B testing and how to run it with low traffic 
+title: What is A/B testing 
+subtitle: And how to run it with low traffic
 image: /img/ab-testing.jpg
 tags: [A/B testing, Growth Analytics, Marketing Analytics, Web Analytics, Conversion, Optimisation]
 ---
