@@ -11,13 +11,13 @@ subtitle: Grow Your Business With Analytics
   - Marketing analytics
   - Product analytics
   - Sales analytics
-  - Conversion optimisation & A/B testing
+  - Conversion rate optimisation & A/B testing
   - Predictive modelling
 
 ### Credentials
   - MSc. Finance & Investment
   - BSc. Econometrics
-  - Background in real estate investment banking, quantitative analytics, econometrics, and marketing analysis
+  - Background in real estate investment banking, quantitative analytics, econometrics, and data analysis
   
 ### Clients include the U.K.'s hottest tech start-ups
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
