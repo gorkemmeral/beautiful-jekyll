@@ -17,7 +17,7 @@ subtitle: Grow Your Business With Analytics
 ### Credentials
   - MSc. Finance & Investment
   - BSc. Econometrics
-  - Background in real estate investment banking, quantitative analytics, econometrics, and data analysis
+  - Background in real estate investment banking, quantitative analysis, econometrics, and data analytics
   
 ### Clients include the U.K.'s hottest tech start-ups
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
