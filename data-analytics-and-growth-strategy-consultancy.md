@@ -9,6 +9,9 @@ subtitle: Grow Your Business With Analytics
   - Data warehousing 
   - Data visualisation & dashboard solutions
   - Marketing analytics
+  - Product analytics
+  - Sales analytics
+  - Conversion optimisation & A/B testing
   - Predictive modelling
 
 ### Credentials
