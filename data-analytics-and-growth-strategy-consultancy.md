@@ -20,6 +20,7 @@ subtitle: Grow Your Business With Analytics
   - Background in real estate investment banking, quantitative analysis, econometrics, and data analytics
   
 ### Clients include the U.K.'s hottest tech start-ups
+[![Just-Eat logo](/img/just-eat-logo.png)](https://www.just-eat.com)
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
 [![Plentific logo](/img/plentific-logo.png)](https://plentific.com)
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
