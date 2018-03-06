@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A/B test calculators
+title: A/B Test Calculators
 subtitle: 
 ---
 
