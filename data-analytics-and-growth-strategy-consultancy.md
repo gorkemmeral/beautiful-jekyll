@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analytics Consultancy
+title: Analytics Consultancy
 subtitle: Analytics | Growth Strategies | Optimisation | Data Science  
 ---
 
