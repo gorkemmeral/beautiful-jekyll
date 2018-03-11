@@ -19,7 +19,7 @@ font-weight: bold;
 font-size: 90%;
 background: #428EF0;
 color: #fff;
-border: 1px solid #3366cc;
+border: 0px solid #3366cc;
 border-radius: 10px;
 }
 input.MyButton:hover {
