@@ -22,7 +22,7 @@ border-radius: 10px;
 }
 input.MyButton:hover {
 color: #ffff;
-background: #000;
+background: #404040;
 border: 1px solid #fff;
 }
 </style>
