@@ -14,7 +14,7 @@ width: 300px;
 padding: 20px;
 cursor: pointer;
 font-weight: bold;
-font-size: 110%;
+font-size: 90%;
 background: #378CF7;
 color: #fff;
 border: 1px solid #3366cc;
