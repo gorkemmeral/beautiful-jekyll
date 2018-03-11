@@ -25,7 +25,7 @@ border-radius: 10px;
 input.MyButton:hover {
 color: #ffff;
 background: #404040;
-border: 1px solid #fff;
+border: 0px solid #fff;
 }
 </style>
 </head>
