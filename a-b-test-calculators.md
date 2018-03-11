@@ -10,6 +10,8 @@ subtitle:
 <head>
 <style>
 input.MyButton {
+display:inline-block;     
+margin:0 auto;
 width: 300px;
 padding: 20px;
 cursor: pointer;
