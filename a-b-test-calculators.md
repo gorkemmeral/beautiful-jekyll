@@ -3,9 +3,6 @@ layout: page
 title: A/B Test Calculators
 subtitle: 
 ---
-
-**[Statistical significance calculator](https://app.gorkemmeral.com/shiny/A-B-test-significance-calculator/)**
-
 <form>
 <input class="MyButton" type="button" value="Statistical significance calculator" onclick="window.location.href='https://app.gorkemmeral.com/shiny/A-B-test-significance-calculator/'" />
 </form>
@@ -13,7 +10,7 @@ subtitle:
 <head>
 <style>
 input.MyButton {
-width: 400px;
+width: 410px;
 padding: 20px;
 cursor: pointer;
 font-weight: bold;
