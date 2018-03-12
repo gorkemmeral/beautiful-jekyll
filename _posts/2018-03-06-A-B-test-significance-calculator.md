@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A/B test statistical significance calculator
-image: /img/ab-testing.jpg
+image: /img/duration-graph.jpg
 tags: [A/B Test, Calculator, R Shiny, Product Analytics, Experiments, Hypothesis Testing, Growth Analytics, Marketing Analytics, Web Analytics, Conversion, Optimisation]
 ---
 
