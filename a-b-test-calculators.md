@@ -10,13 +10,13 @@ subtitle:
 <head>
 <style>
 input.MyButton {
-display:inline-block;     
-margin:0 auto;
+display:block;     
+margin:auto;
 width: 400px;
 padding: 20px;
 cursor: pointer;
 font-weight: bold;
-font-size: 80%;
+font-size: 85%;
 background: #428EF0;
 color: #fff;
 border: 0px solid #3366cc;
