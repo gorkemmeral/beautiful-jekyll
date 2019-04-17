@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sales forecast with ARIMA in R 
-image: --/img/fb_icon_325x325.png
+image: /img/fb_icon_325x325.png
 tags: [R, ARIMA model, Analytics, Econometrics, Sales Forecast]
 ---
 
