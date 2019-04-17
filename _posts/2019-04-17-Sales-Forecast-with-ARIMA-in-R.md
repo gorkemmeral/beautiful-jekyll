@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to forecast sales with ARIMA in R 
+title: How to forecast sales with an ARIMA model in R 
 image: /img/ARIMA-212.png
 tags: [R, ARIMA modelling, Analytics, Econometrics, Sales Forecast, Time Series Analysis]
 ---
