@@ -12,11 +12,11 @@ subtitle:
 input.MyButton {
 display:inline-block;     
 margin:0 auto;
-width: 300px;
+width: 4000px;
 padding: 20px;
 cursor: pointer;
 font-weight: bold;
-font-size: 70%;
+font-size: 80%;
 background: #428EF0;
 color: #fff;
 border: 0px solid #3366cc;
