@@ -12,7 +12,7 @@ subtitle:
 input.MyButton {
 display:inline-block;     
 margin:0 auto;
-width: 4000px;
+width: 400px;
 padding: 20px;
 cursor: pointer;
 font-weight: bold;
