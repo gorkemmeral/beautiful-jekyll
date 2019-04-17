@@ -4,7 +4,7 @@ title: A/B Test Calculators
 subtitle: 
 ---
 <form>
-<input class="MyButton" type="button" value="Statistical significance calculator" onclick="window.location.href='https://app.gorkemmeral.com/shiny/A-B-test-significance-calculator/'" />
+<input class="MyButton" type="button" value="Launch the Statistical Significance Calculator" onclick="window.location.href='https://app.gorkemmeral.com/shiny/A-B-test-significance-calculator/'" />
 </form>
 
 <head>
