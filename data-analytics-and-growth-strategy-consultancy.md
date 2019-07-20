@@ -20,6 +20,7 @@ subtitle: Analytics | Growth Strategies | Optimisation | Data Science
   - Background in real estate investment banking, quantitative analysis, econometrics, and data analytics
   
 ### Clients include the U.K.'s hottest tech companies
+[![Trainline logo](/img/trainline-logo.jpg)](https://www.thetrainline.com)
 [![Just-Eat logo](/img/just-eat-logo.png)](https://www.just-eat.com)
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
 [![Plentific logo](/img/plentific-logo.png)](https://plentific.com)
