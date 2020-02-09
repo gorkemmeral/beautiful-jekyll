@@ -22,6 +22,7 @@ subtitle: Analytics | Growth Strategies | Optimisation | Data Science
 ### Clients include the U.K.'s hottest tech companies
 [![Trainline logo](/img/trainline-logo.jpg)](https://www.thetrainline.com)
 [![Just-Eat logo](/img/just-eat-logo.png)](https://www.just-eat.com)
+[![Wellcome Trust logo](/img/wellcome-trust.png)](https://wellcome.ac.uk) 
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
 [![Plentific logo](/img/plentific-logo.png)](https://plentific.com)
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
