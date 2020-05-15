@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analytics Consultancy
-subtitle: Analytics | Growth Strategies | Optimisation | Data Science  
+subtitle: Analytics | Business Intelligence | Optimisation | Data Science  
 ---
 
 ### Services include
