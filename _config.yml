@@ -17,13 +17,13 @@ baseurl: ""
 title: Görkem Meral
 
 # Short description of your site
-description: Analytics | Data Science | Business Intelligence | Data Visualisation | Marketing Science | Optimisation | Econometrics 
+description: Analytics | Data Science | Business Intelligence | Data Visualisation | Product Analytics | Marketing Science | Optimisation | Econometrics 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Analytics Consultancy: "data-analytics-and-growth-strategy-consultancy"
+  Analytics Consultancy: "data-analytics-consultancy"
   A/B Test Calculators: "a-b-test-calculators"
   About Me / Contact: "about-me"
    # - Learn markdown: "http://www.markdowntutorial.com/"
@@ -45,7 +45,7 @@ avatar: "/img/gorkem-meral2.png"
 author:
   name: Görkem Meral
   email: "gorkem@gorkemmeral.com"
-  facebook: gorkemmeral  # eg. daattali
+  #facebook: gorkemmeral  # eg. daattali
   github: gorkemmeral    # eg. daattali
   twitter: gorkemmeral   # eg. daattali
   calendly: "gorkemmeral/meeting"
@@ -55,7 +55,7 @@ author:
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
-  instagram: gorkemmeral # eg. daattali
+  #instagram: gorkemmeral # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
   #spotify: yourname   # eg. daattali
   #telephone: yourphone   # eg. +14159998888
