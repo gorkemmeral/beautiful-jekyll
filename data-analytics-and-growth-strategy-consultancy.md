@@ -10,7 +10,6 @@ subtitle: Analytics | Growth Strategies | Optimisation | Data Science
   - Data visualisation & dashboard solutions
   - Marketing analytics
   - Product analytics
-  - Sales analytics
   - Conversion rate optimisation & A/B testing
   - Predictive modelling
 
@@ -19,7 +18,10 @@ subtitle: Analytics | Growth Strategies | Optimisation | Data Science
   - BSc. Econometrics
   - Background in real estate investment banking, quantitative analysis, econometrics, and data analytics
   
-### Clients include the U.K.'s hottest tech companies
+### Technical skills  
+  Tableau, R, MySQL, PostgreSQL, AWS Redshift, Google BigQuery, Snowflake, Google Analytics, Adobe Analytics, Salesforce, Google Data Studio, Jira, GitHub, Bitbucket, Optimizely, Stitch Data, DBT 
+  
+### Clients include the U.K.'s leading tech companies
 [![Trainline logo](/img/trainline-logo.jpg)](https://www.thetrainline.com)
 [![Just-Eat logo](/img/just-eat-logo.png)](https://www.just-eat.com)
 [![Wellcome Trust logo](/img/wellcome-trust.png)](https://wellcome.ac.uk) 
@@ -28,7 +30,7 @@ subtitle: Analytics | Growth Strategies | Optimisation | Data Science
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
 
 ### Schedule a meeting
-You can book a **free one hour consultancy** service with me to discuss your data, analytics, and growth strategy.
+You can book a **free 30 minutes consultancy** service with me to discuss your analytics strategy.
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
