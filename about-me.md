@@ -4,7 +4,7 @@ title: About Me
 subtitle: 
 ---
 
-Hi! My name is **Görkem**. I live in London, UK. I am into data analytics, economics, the R language, politics, cycling, bouldering, photography, Louis Theroux documentaries, pubs, parks, music, and the arts.
+Hi! My name is **Görkem**. I live in London, UK. I am into analytics, economics, the R language, politics, cycling, bouldering, photography, Louis Theroux documentaries, pubs, parks, music, and the arts.
 
 I run an analytics [consultancy](http://gorkemmeral.com/data-analytics-consultancy/) business.
 
