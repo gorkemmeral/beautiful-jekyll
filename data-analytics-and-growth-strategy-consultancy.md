@@ -35,7 +35,7 @@ You can book a **free 30 minutes consultancy** service with me to discuss your a
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/gorkemmeral/meeting');return false;">Click here to book your free one hour discussion with me.</a>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/gorkemmeral/meeting');return false;">Click here to book a 30 minutes discussion with me.</a>
 <!-- Calendly link widget end -->
 
 <!-- Calendly badge widget begin -->
