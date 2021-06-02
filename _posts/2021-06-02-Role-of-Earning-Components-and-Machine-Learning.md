@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our article has been published in The International Review of Financial Analysis! 
-image: /img/machine-learning-models-in-finance.png
+image: /img/international-review-of-financial-analysis.png
 tags: [R, Machine Learning Models in Finance, Cash Flows, Earnings, Distress Prediction, Machine Learning, Estimation Methods]
 ---
 
