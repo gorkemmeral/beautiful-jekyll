@@ -2,6 +2,7 @@
 layout: page
 title: A/B Test Calculators
 subtitle: 
+tags: [A/B Test, Statistical Signicance Calculator, R Shiny, Product Analytics, Experiments, Hypothesis Testing, Growth Analytics, Marketing Analytics, Web Analytics, Conversion, Optimisation, p-value]
 ---
 <form>
 <input class="MyButton" type="button" value="Launch the Statistical Significance Calculator" onclick="window.location.href='https://app.gorkemmeral.com/shiny/A-B-test-significance-calculator/'" />
