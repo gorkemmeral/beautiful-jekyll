@@ -1,14 +1,13 @@
 ---
 layout: page
 title: A/B Test Calculators
-subtitle: 
+subtitle: Calculate statistical significance of your A/B-test
 ---
 <form>
 <input class="MyButton" type="button" value="Launch the Statistical Significance Calculator" onclick="window.location.href='https://app.gorkemmeral.com/shiny/A-B-test-significance-calculator/'" />
 </form>
 
 <head>
-  <meta name="description" content="Calculate statistical significance of your A/B-test" />
 <style>
 input.MyButton {
 display:block;     
