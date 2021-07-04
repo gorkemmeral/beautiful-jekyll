@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Analytics Consultancy
-subtitle: Analytics | Business Intelligence | Data Science  
+subtitle: London Data Analytics Consultant  
 ---
 
-### Services include
+### Analytics consultancy services include
   - Reviewing your data strategy
   - Data warehousing 
   - Data visualisation & dashboard solutions
@@ -19,7 +19,7 @@ subtitle: Analytics | Business Intelligence | Data Science
   - Background in real estate investment banking, quantitative analysis, econometrics, and data analytics
   
 ### Technical skills  
-  Tableau, R, MySQL, PostgreSQL, AWS Redshift, Google BigQuery, Snowflake, Google Analytics, Adobe Analytics, Salesforce, Google Data Studio, Jira, GitHub, Bitbucket, Optimizely, Stitch Data, DBT 
+  Tableau, R, MySQL, PostgreSQL, AWS Redshift, Google BigQuery, Snowflake, Google Analytics, Adobe Analytics, Salesforce, Google Data Studio, Jira, GitHub, Bitbucket, Optimizely, Stitch Data, dbt, Teradata
   
 ### Clients include the U.K.'s leading tech companies
 [![Trainline logo](/img/trainline-logo.jpg)](https://www.thetrainline.com)
@@ -28,6 +28,7 @@ subtitle: Analytics | Business Intelligence | Data Science
 [![Adzuna logo](/img/adzuna-logo.png)](https://www.adzuna.co.uk)
 [![Plentific logo](/img/plentific-logo.png)](https://plentific.com)
 [![Talmix logo](/img/talmix-logo.png)](https://www.talmix.com)
+[![Chetwood_Financial_logo](/img/chetwood-logo.png)](https://chetwood.co/)
 
 ### Schedule a meeting
 You can book a **free 30 minutes consultancy** service with me to discuss your analytics strategy.
