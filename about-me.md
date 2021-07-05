@@ -4,7 +4,7 @@ title: About Me
 subtitle: Analytics Consultant | London
 ---
 
-Hi! My name is **Görkem**. I live in London, UK and run an analytics [consultancy](http://gorkemmeral.com/data-analytics-consultancy/) business.
+Hi! My name is **Görkem**. I live in London, UK and run an analytics [consultancy](http://gorkemmeral.com/data-analytics-consultancy-london/) business.
 
 ### Get in touch
 
