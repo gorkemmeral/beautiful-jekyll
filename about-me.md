@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: 
+subtitle: London Analytics Consultant
 ---
 
 Hi! My name is **Görkem**. I live in London, UK. I am into analytics, economics, the R language, politics, cycling, bouldering, photography, Louis Theroux documentaries, pubs, parks, music, and the arts.
