@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analytics Consultancy
-subtitle: London Data Analytics Consultant  
+subtitle: Data Analytics Consultant | London, UK  
 ---
 
 ### Analytics consultancy services include
